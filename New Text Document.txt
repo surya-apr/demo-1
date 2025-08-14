@@ -1,0 +1,3 @@
+{
+  "message": "this is the proect for the mule practice"
+}
