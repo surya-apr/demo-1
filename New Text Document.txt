@@ -1,3 +1,5 @@
 {
-  "message": "this is the proect for the mule practice"
+  "message": "this is the proect for the mule practice",
+  "status": "git project code created successfully"
+
 }
